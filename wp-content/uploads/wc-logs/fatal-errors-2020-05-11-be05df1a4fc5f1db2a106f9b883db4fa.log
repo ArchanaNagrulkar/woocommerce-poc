@@ -1,0 +1,159 @@
+2020-05-11T05:49:54+00:00 CRITICAL Uncaught Error: Call to undefined function get_options() in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php:18
+Stack trace:
+#0 /Applications/MAMP/htdocs/wpsite/wp-admin/includes/plugin.php(659): include_once()
+#1 /Applications/MAMP/htdocs/wpsite/wp-admin/plugins.php(44): activate_plugin('worldine-paymen...', 'http://localhos...', false)
+#2 {main}
+  thrown in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 18
+
+2020-05-11T05:49:56+00:00 CRITICAL Uncaught Error: Call to undefined function get_options() in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php:18
+Stack trace:
+#0 /Applications/MAMP/htdocs/wpsite/wp-admin/includes/plugin.php(2255): include()
+#1 /Applications/MAMP/htdocs/wpsite/wp-admin/plugins.php(177): plugin_sandbox_scrape('worldine-paymen...')
+#2 {main}
+  thrown in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 18
+
+2020-05-11T05:49:56+00:00 CRITICAL Uncaught Error: Call to undefined function get_options() in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php:18
+Stack trace:
+#0 /Applications/MAMP/htdocs/wpsite/wp-admin/includes/plugin.php(2255): include()
+#1 /Applications/MAMP/htdocs/wpsite/wp-admin/plugins.php(177): plugin_sandbox_scrape('worldine-paymen...')
+#2 {main}
+  thrown in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 18
+
+2020-05-11T05:53:26+00:00 CRITICAL syntax error, unexpected ',' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 28
+
+2020-05-11T05:55:27+00:00 CRITICAL syntax error, unexpected ',' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 28
+
+2020-05-11T05:57:27+00:00 CRITICAL syntax error, unexpected ',' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 28
+
+2020-05-11T05:59:28+00:00 CRITICAL syntax error, unexpected ',' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 28
+
+2020-05-11T06:31:37+00:00 CRITICAL syntax error, unexpected 'return' (T_RETURN) in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 52
+
+2020-05-11T06:31:40+00:00 CRITICAL syntax error, unexpected 'return' (T_RETURN) in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 52
+
+2020-05-11T07:07:05+00:00 CRITICAL syntax error, unexpected 'return' (T_RETURN) in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 75
+
+2020-05-11T07:08:45+00:00 CRITICAL syntax error, unexpected 'return' (T_RETURN) in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 76
+
+2020-05-11T07:40:17+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T07:40:49+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T07:42:17+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T07:42:49+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T07:44:18+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T07:44:50+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T07:46:19+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T07:46:50+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T07:48:20+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T07:48:50+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T07:50:21+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T07:50:51+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T07:52:21+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T07:52:51+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T07:54:22+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T07:54:52+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T07:56:23+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T08:04:16+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T08:05:46+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T08:06:16+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T08:07:46+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T08:08:16+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T08:09:46+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T08:10:17+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T08:11:46+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T08:12:17+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T08:13:47+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T08:14:17+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T08:15:48+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T08:16:18+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T08:17:49+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T08:18:19+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T08:49:04+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T08:49:33+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T08:51:04+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T08:51:33+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T08:53:05+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T08:53:34+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T08:55:05+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T08:55:34+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T08:57:05+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T08:57:34+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T08:59:06+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T08:59:35+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T09:01:06+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T09:01:36+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T09:03:07+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T09:03:37+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T09:05:08+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T09:05:37+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T09:07:08+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T09:07:38+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T09:09:08+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T09:09:39+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T09:11:09+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T09:11:39+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T09:13:09+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T09:13:40+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T09:15:10+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T09:15:15+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
+2020-05-11T09:15:16+00:00 CRITICAL syntax error, unexpected '}' in /Applications/MAMP/htdocs/wpsite/wp-content/plugins/worldine-payment-for-woocommerce/worldine-payment-for-woocommerce.php on line 41
+
